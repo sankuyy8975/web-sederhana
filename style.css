@@ -1,1 +1,20 @@
+body{
+  backround-color:#FFFFE0;
+  font-family: arial, sans-serif;
+  color:#191970;
+}
 
+
+.card-profil{
+  width:300px;
+  marigin:50px auto:
+  border-radius:8px;
+  background-color:white;
+  box-shadow:o 4px 8px rgba(0,0,0,0.1);
+  align-items:center;
+}
+
+.card-profil img{
+  width:140px;
+  border-radius:50%;
+}
